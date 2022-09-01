@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"></meta>
+        <meta charset="viewport" content="width=device-width,initial-scale=1.0"></meta>
+   <title>camfer cafe</title>
+<link rel="stylesheet" href="cafe.css"></link>
+    </head>
+    <body> 
+        <div class="menu">
+       <!--heading section-->
+            <section>
+        <header>
+            <h1>CAMFER CAFE</h1>
+            <P class="established">Est.2020</P>
+        </header> 
+        <main>
+            <header>
+                <h2>Coffee</h2>
+                 <!--Coffee flavor-->
+                <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg" alt="coffee icon">
+<article class="item">
+   
+<p class="flavor">French Vanilla</p><p class="price">3.00</p>
+</article>
+<article class="item">
+    <p class="flavor">Caramel Macchiato</p><p class="price">3.75</p>
+</article>
+<article class="item">
+    <p class="flavor">Pumpkin Spice</p><p class="price">3.50</p>
+</article>
+<article class="item">
+    <p class="flavor">Hazelnut</p><p class="price">4.00</p>
+</article>
+<article class="item">
+    <p class="flavor">Mocha</p><p class="price">4.50</p>
+</article>
+            </header>
+        </section>
+       <!--deserts flavor-->
+        <section>
+           <h2>Deserts</h2> 
+           <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"" alt="Pie icon">
+      <article class="item">
+        <p class="dessert">Donut</p>
+        <p class="price">1.50</p>
+      </article>
+      <article class="item">
+        <p class="dessert">cheery pie</p>
+        <p class="price">2.75</p>
+      </article>
+      <article class="item">
+        <p class="dessert">Cheesecake</p>
+        <p class="price">3.00</p>
+      </article>
+      <article class="item">
+        <p class="dessert">Cinnamon Roll</p>
+        <p class="price">2.50</p>
+      </article>
+        </section>
+        </main>
+        <hr class="bottom-line">
+  <!--footer section-->
+        <section>
+    <footer>
+        <p>
+            <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a> 
+        </p>
+        <p class="address">123 Free Code Camp Drive</p>
+    </footer>
+    </div>
+   </section>
+    </body>
+</html>
