@@ -32,8 +32,8 @@ img{
 }
 hr{
     height:2px;
-    background-color:brown;
-    border-color:blueviolet; 
+    background-color:blue;
+    border-color:rgb(55, 43, 226); 
 }
 .bottom-line{
     margin-top: 25px;
