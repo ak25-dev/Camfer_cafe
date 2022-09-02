@@ -9,7 +9,7 @@ h1{
     margin-bottom: 15px;
 }
 h2{
-    font-size: 30px;
+    font-size: 35px;
 }
 .established{
     font-style: 30px;
@@ -31,7 +31,7 @@ img{
     margin-right: auto;
 }
 hr{
-    height:2px;
+    height:3px;
     background-color:blue;
     border-color:rgb(55, 43, 226); 
 }
