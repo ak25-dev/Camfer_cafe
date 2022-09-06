@@ -32,7 +32,7 @@ img{
 }
 hr{
     height:3px;
-    background-color:blue;
+    background-color:rgb(0, 255, 153);
     border-color:rgb(55, 43, 226); 
 }
 .bottom-line{
